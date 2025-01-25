@@ -20,8 +20,7 @@ Key Features:
 The code enables users to:
 
     Query dataset information such as columns, numeric/categorical types, and more.
-    Generate common visualizations like:
-        Pairplots, barplots, scatter plots, histograms, box plots, and heatmaps.
+    Generate common visualizations like: Pairplots, barplots, scatter plots, histograms, box plots, and heatmaps.
     Preprocess data through standard scaling and encoding.
 
 Libraries Used:
