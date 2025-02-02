@@ -1,0 +1,9 @@
+*.ipynb_checkpoints
+__pycache__
+.DS_Store
+/data/*
+/models/*
+/results/*
+*.log
+.env
+credentials.json
