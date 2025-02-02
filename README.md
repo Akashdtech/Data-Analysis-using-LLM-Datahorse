@@ -1,19 +1,21 @@
 # Data-Analysis-using-LLM-Datahorse
 This code demonstrates an AI-driven approach to analyzing and visualizing data using LangChain, Datahorse, and OpenAI's GPT-3.5-turbo. It provides an interactive way to query, preprocess, and visualize data directly in Python, leveraging the power of natural language for data operations.
-Key Features:
 
-    AI-Driven Data Interaction:
-        Use GPT-3.5-turbo to interact with a Pandas DataFrame for querying data properties like categorical and numeric columns.
-        Perform exploratory data analysis (EDA) tasks via conversational queries.
+AI-Driven Data Interaction:
 
-    Datahorse Integration:
-        Simplifies data analysis through conversational commands, offering a seamless experience for EDA and preprocessing.
-        Supports interactive visualizations like pairplots, barplots, scatter plots, histograms, box plots, and heatmaps.
+    Use GPT-3.5-turbo to interact with a Pandas DataFrame for querying data properties like categorical and numeric columns.
+    Perform exploratory data analysis (EDA) tasks via conversational queries.
 
-    End-to-End Workflow:
-        Data Loading: Load the StudentPerformanceFactors.csv dataset for analysis.
-        EDA and Visualization: Generate insights and visualizations with simple chat commands.
-        Data Preprocessing: Apply standard scaling to numeric columns. Encode categorical columns into numeric formats for machine learning.
+Datahorse Integration:
+
+    Simplifies data analysis through conversational commands, offering a seamless experience for EDA and preprocessing.
+    Supports interactive visualizations like pairplots, barplots, scatter plots, histograms, box plots, and heatmaps.
+
+End-to-End Workflow:
+        
+    Data Loading: Load the StudentPerformanceFactors.csv dataset for analysis.
+    EDA and Visualization: Generate insights and visualizations with simple chat commands.
+    Data Preprocessing: Apply standard scaling to numeric columns. Encode categorical columns into numeric formats for machine learning.
 
 The code enables users to:
 
